@@ -1,0 +1,10 @@
+nid	mid	fields
+1508244760699	1491545041634	How do we use evluation functions in tic-tac-to?	<img src="paste-11733850652674.jpg" />	
+1509707751607	1491545041634	How do you compute the next belief in POMDPs?	<img src="paste-10990821310466.jpg" />	
+1498289218497	1491545041634	What is a container?	The container is just the unexpanded nodes.	
+1508247507905	1491545041634	What are the axioms of utility theory?	If you have all 6, then there will be a utility function that matches the preferences.<div><br /></div><div><img src="paste-2443836391426.jpg" /></div><div><img src="paste-2658584756226.jpg" /></div><div><img src="paste-3066606649346.jpg" /></div>	
+1509177172675	1491545041634	What are the components of a MCTS for MDP?	<img src="paste-10750303141890.jpg" />	
+1509185853560	1491545041634	How does grid world work?	<img src="paste-20551418511362.jpg" />	
+1509185872503	1491545041634	Draw the grid world	<img src="paste-20787641712642.jpg" />	
+1509189142328	1491545041634	What is a stationary preference?	<img src="paste-28071906246658.jpg" /><div><br /></div><div>it just means that regardless of how we start, we will always prefer a certain sequence.</div>	
+1509709297846	1491545041634	What is EXP3?	<img src="paste-7589207212034.jpg" />	
